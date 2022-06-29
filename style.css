@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./rei.png');
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-top: 5rem;
+}
+
+.bigtext {
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+    font-weight: normal;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+}
+
+.contador {
+    text-align: center;
+}
+
+.contador span {
+    font-size: 1.5rem;
+}
+
+span {
+    font-weight: bold;
+}
