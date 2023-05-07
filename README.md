@@ -8,8 +8,9 @@ Esse é um contador marcando a data do Terceiro Impacto! Ou, simplesmente, nosso
 Terceiro Impacto é um evento do anime Neon Genesis Evangelion que acontece, justamente, no Ano Novo. Uma leve piadinha!
 
 # Layout
-
-! [Layout] (https://github.com/RiquelmeLopes/Third-Impact-Timer/blob/main/layoutPC.png) 
+<div allign ="center">
+   <img src= "https://github.com/RiquelmeLopes/Third-Impact-Timer/blob/main/layoutPC.png" />
+</div>
 
 # Autor
 
