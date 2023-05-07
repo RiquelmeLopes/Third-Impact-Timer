@@ -1,4 +1,4 @@
-const anoNovo = '1 Jan 2023'
+const anoNovo = '1 Jan 2024'
 
 const diasEl = document.getElementById('dias')
 const horasEl = document.getElementById('horas')
